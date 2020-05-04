@@ -65,7 +65,7 @@
   
   ![Images](Images/out.png)
   
-* You can continue using the Edit Buffer to make any changes to the data that you would like, or load your own data into the buffer and experiment changes.
+* You can continue using the Edit Buffer to make any changes to the data that you would like, or load your own data into the buffer and experiment with changes.
 ### Authors
 
 * **William Schmidt** - [LikedIn](https://www.linkedin.com/in/william-schmidt-152431168/)
