@@ -49,7 +49,7 @@
 
   ** Contains the unedited data that will be loaded into the buffer.
   
-  ![Images](Images/data_orig.png)
+  ![Images](Images/data_origs.png)
   
 * data_edit.txt
 
@@ -58,7 +58,14 @@
   ![Images](Images/data_edit.png)
 
 ### Running the tests
-
+* First, download the 'all_files' folder onto your machine.
+* Next, from the shell, navigate your working directory so that you are within the 'all_files' folder.
+* Finally, run the command: bin/proj2 data/data_orig.txt data/data_edit.txt > out.txt
+  - The modified data will be saved to 'out.txt'
+  
+  ![Images](Images/out.png)
+  
+* You can continue using the Edit Buffer to make any changes to the data that you would like, or load your own data into the buffer and experiment changes.
 ### Authors
 
 * **William Schmidt** - [LikedIn](https://www.linkedin.com/in/william-schmidt-152431168/)
