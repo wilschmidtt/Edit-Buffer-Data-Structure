@@ -45,6 +45,17 @@
 
 
 ### Understanding the Data
+* data_orig.txt
+
+  ** Contains the unedited data that will be loaded into the buffer.
+  
+  ![Images](Images/data_orig.png)
+  
+* data_edit.txt
+
+  ** Contains all of the edits that are to be applied to the data in data_orig.txt
+  
+  ![Images](Images/data_edit.png)
 
 ### Running the tests
 
