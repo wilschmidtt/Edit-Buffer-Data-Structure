@@ -1,5 +1,5 @@
 # Edit Buffer Data Structure
-* Project Overview: Create an Edit Buffer data structure that can be used to support a text editing program. Edit Buffer was created using the Gap-Buffer data structure. Data can be read to and deleted from the edit buffer. Space is dynamically allocated for the buffer and the size will automatically be doubled if the buffer fills up. Cursor exists within the buffer can be controlled by user to navigate to and insert/delete from desired locations.
+* Project Overview: Create an Edit Buffer program that can be used to support a text editing program. Edit Buffer was created using the Gap-Buffer data structure. Data can be read to and deleted from the edit buffer. Space is dynamically allocated for the buffer and the size will automatically be doubled if the buffer fills up. Cursor exists within the buffer can be controlled by user to navigate to and insert/delete from desired locations.
 * Goals: Gain experience using Unix shell, writing and debugging a program with VIM, and test driven development.
 
 ### Prerequisites
