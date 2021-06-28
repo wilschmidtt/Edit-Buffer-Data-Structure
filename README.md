@@ -5,7 +5,7 @@
 ### Prerequisites
 * Familiarity with C
 * Access to Unix shell
-
+ 
 ### Functions
 * typedef struct STRUCT_EDIT_BUFFER_TAG SEditBuffer;
 
